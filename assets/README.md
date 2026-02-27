@@ -1,8 +1,6 @@
 ## 🖼️ Jarvis V80: Technical Evidence & Operational Gallery
 > **Status:** Verified Production Environment | **Core:** Zenith Core v80
 
-Dokumentasi di bawah ini disusun berdasarkan urutan pengembangan dari validasi logika hingga pelatihan model skala masif menggunakan infrastruktur GPU.
-
 <table border="0">
   <tr>
     <td align="center"><img src="assets/jarvis_v80_evidence%20(1).png" width="280"><br><sub>Logic Validation: 94% Score</sub></td>
@@ -25,12 +23,12 @@ Dokumentasi di bawah ini disusun berdasarkan urutan pengembangan dari validasi l
   <tr>
     <td align="center"><img src="assets/jarvis_v80_evidence%20(9).png" width="280"><br><sub>Buy Process & Trailing Logic</sub></td>
     <td align="center"><img src="assets/jarvis_v80_evidence%20(11).png" width="280"><br><sub>Trailing Sniper Execution</sub></td>
-    <td align="center"><img src="center"><img src="assets/jarvis_v80_evidence%20(12).png" width="280"><br><sub>2.95M Data Mining Process</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence%20(12).png" width="280"><br><sub>2.95M Data Mining Process</sub></td>
   </tr>
 
   <tr>
     <td align="center"><img src="assets/jarvis_v80_evidence%20(13).png" width="280"><br><sub>Synthetic Data: 2.75M+ Rows</sub></td>
-    <td align="center"><img src="assets/jarvis_v80_evidence%20(14).png" width="280"><br><sub>Daily Memory supplemental Dataset</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence%20(14).png" width="280"><br><sub>Daily Memory Dataset</sub></td>
     <td align="center"><img src="assets/jarvis_v80_evidence%20(16).png" width="280"><br><sub>Monthly Battle Log Integration</sub></td>
   </tr>
 </table>
@@ -41,10 +39,8 @@ Dokumentasi di bawah ini disusun berdasarkan urutan pengembangan dari validasi l
 <img src="assets/jarvis_v80_evidence%20(15).png" width="860">
 
 **Training Specifications:**
-- **Infrastruktur:** GPU RTX 3050 & CPU i5-12450HX (2.40 GHz)
-- **Framework:** CUDA Optimized XGBoost
-- **Model Architecture:** 8 Generals Ensemble Framework
-- **Decision Trees:** 5,000 "Soldiers" (Decision Trees) for high-fidelity pattern recognition.
+- **Infrastruktur:** GPU RTX 3050 & CPU i5-12450HX
+- **Model Architecture:** 8 Generals Ensemble Framework (5,000 Decision Trees)
 - **Dataset:** Total 2.95M Synchronized Market Points.
 
 ---
