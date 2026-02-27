@@ -1,19 +1,46 @@
-## 🖼️ Jarvis V80: Technical Evidence Gallery
-> **Phase:** V80 Elite Tuning | **Dataset:** 2.95M Points
+## 🖼️ Jarvis V80: Technical Evidence & Operational Gallery
+> **Status:** Verified Production Environment | **Core:** Zenith Core v80
 
-![Evidence 1](assets/jarvis_v80_evidence%20(1).png)
-![Evidence 2](assets/jarvis_v80_evidence%20(2).png)
-![Evidence 3](assets/jarvis_v80_evidence%20(3).png)
-![Evidence 4](assets/jarvis_v80_evidence%20(4).png)
-![Evidence 5](assets/jarvis_v80_evidence%20(5).png)
-![Evidence 6](assets/jarvis_v80_evidence%20(6).png)
-![Evidence 7](assets/jarvis_v80_evidence%20(7).png)
-![Evidence 8](assets/jarvis_v80_evidence%20(8).png)
-![Evidence 9](assets/jarvis_v80_evidence%20(9).png)
-![Evidence 10](assets/jarvis_v80_evidence%20(10).png)
-![Evidence 11](assets/jarvis_v80_evidence%20(11).png)
-![Evidence 12](assets/jarvis_v80_evidence%20(12).png)
-![Evidence 13](assets/jarvis_v80_evidence%20(13).png)
-![Evidence 14](assets/jarvis_v80_evidence%20(14).png)
-![Evidence 15](assets/jarvis_v80_evidence%20(15).png)
-![Evidence 16](assets/jarvis_v80_evidence%20(16).png)
+<table border="0">
+  <tr>
+    <td align="center"><img src="assets/jarvis_v80_evidence1.png" width="280"><br><sub>Logic Validation: 94% Score</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence2.png" width="280"><br><sub>Logic Validation: 97% Score</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence3.png" width="280"><br><sub>AI Consensus Check</sub></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="assets/jarvis_v80_evidence4.png" width="280"><br><sub>Project Directory Structure</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence5.png" width="280"><br><sub>Core Assets: Jarvis_Brain_v61.pkl</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence6.png" width="280"><br><sub>Model Weight Management</sub></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="assets/jarvis_v80_evidence7.png" width="280"><br><sub>Zenith Core Trading Startup</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence8.png" width="280"><br><sub>Live MT5: $24.00 Profit Run</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence10.png" width="280"><br><sub>Live MT5: $46.50 Profit Run</sub></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="assets/jarvis_v80_evidence9.png" width="280"><br><sub>Buy Process & Trailing Logic</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence11.png" width="280"><br><sub>Trailing Sniper Execution</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence12.png" width="280"><br><sub>2.95M Data Mining Process</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="assets/jarvis_v80_evidence13.png" width="280"><br><sub>Synthetic Data: 2.75M+ Rows</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence14.png" width="280"><br><sub>Daily Memory Dataset</sub></td>
+    <td align="center"><img src="assets/jarvis_v80_evidence16.png" width="280"><br><sub>Monthly Battle Log Integration</sub></td>
+  </tr>
+</table>
+
+### ⚡ 6. High-Performance Training Session
+*File: `jarvis_v80_evidence (15).png`*
+
+<img src="assets/jarvis_v80_evidence15.png" width="860">
+
+**Training Specifications:**
+- **Infrastruktur:** GPU RTX 3050 & CPU i5-12450HX
+- **Model Architecture:** 8 Generals Ensemble Framework (5,000 Decision Trees)
+- **Dataset:** Total 2.95M Synchronized Market Points.
+
+---
